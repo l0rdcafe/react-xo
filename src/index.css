@@ -52,3 +52,7 @@ body {
   .bold {
     border: 2px solid black;
   }
+
+  .win {
+    background: goldenrod;
+  }
